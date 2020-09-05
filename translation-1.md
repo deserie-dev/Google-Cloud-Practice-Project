@@ -2,7 +2,7 @@
 
 ## Objectives:
 
-In this lab you will elarn how to perform the following tasks: 
+In this lab you will learn how to perform the following tasks: 
 
 * Provision a Kubernetes cluster using Kubernetes Engine
 * Deploy and manage Docker containers using kubectl
